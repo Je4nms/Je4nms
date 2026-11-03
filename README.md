@@ -26,7 +26,7 @@ Conecta no Spotify e desenha o mapa de humor do seu gosto musical. Projeto de da
 
 ## Como eu trabalho
 
-Não construo sozinho: uso o **Claude** (IA da Anthropic) como parceiro de programação. Eu defino o que o produto precisa, tomo as decisões, testo tudo no celular e reviso cada mudança. O Claude me ajuda a escrever o código e, principalmente, a **entender o porquê** de cada escolha. Cada projeto aqui foi uma aula: aprendi Python, SQL, Git, APIs, login com Google e segurança construindo coisas de verdade.
+Não construo sozinho: uso o **Claude** (IA da Anthropic) como parceiro de programação, para automatizar tarefas e ganhar velocidade. Eu defino o que o produto precisa, tomo as decisões e testo tudo no celular. E **reviso todo o código**: leio o que cada parte faz, confiro se ela cumpre a sua função e se o resultado está dentro do esperado antes de aprovar qualquer mudança. O Claude me ajuda a escrever e, principalmente, a **entender o porquê** de cada escolha. Cada projeto aqui foi uma aula: aprendi Python, SQL, Git, APIs, login com Google e segurança construindo coisas de verdade.
 
 ## Estudando agora
 
