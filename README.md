@@ -2,6 +2,8 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** em São Paulo, migrando para a área de tecnologia. Comecei a programar do zero e aprendo construindo: meus projetos resolvem problemas reais e estão no ar para qualquer pessoa testar.
 
+Sou do tipo que vai atrás de resolver o problema, onde quer que ele esteja ao meu alcance. Sou novo na área, mas aprendo muito na prática: em todas as minhas experiências, profissionais e pessoais, os problemas apareciam e eu precisava me virar. Foi assim que aprendi boa parte do que sei.
+
 No trabalho, sou o cara que resolve os problemas de rede do dia a dia: IP, modem, conexões, impressora que muda de IP. Gosto de entender **por que** algo não funciona e consertar de vez.
 
 **Busco:** estágio ou vaga júnior em **desenvolvimento** ou **dados**, de preferência **remoto** ou híbrido, num lugar onde eu possa aprender e crescer.
@@ -21,6 +23,16 @@ Conecta no Spotify e desenha o mapa de humor do seu gosto musical. Projeto de da
 
 - Login com Spotify (OAuth), API externa e base de 90 mil músicas consultada com SQL
 - **Python · Streamlit · SQL (DuckDB) · Altair**
+
+## Como eu trabalho
+
+Não construo sozinho: uso o **Claude** (IA da Anthropic) como parceiro de programação. Eu defino o que o produto precisa, tomo as decisões, testo tudo no celular e reviso cada mudança. O Claude me ajuda a escrever o código e, principalmente, a **entender o porquê** de cada escolha. Cada projeto aqui foi uma aula: aprendi Python, SQL, Git, APIs, login com Google e segurança construindo coisas de verdade.
+
+## Estudando agora
+
+- **n8n**: automação de processos e integrações entre sistemas
+- **Firecrawl**: coleta e organização de dados da web
+- **Playwright**: automação de navegador e testes
 
 ## Tecnologias
 
